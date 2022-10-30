@@ -8,7 +8,7 @@ const questions = [
         'correct' : 'a' ,
     },
     {
-        'que' : 'Is ABES Good College ?',
+        'que' : 'Is Engineering Good Option ?',
         'a' : 'NO',
         'b' : 'HELL NO',
         'c' : 'NO Chance ',
